@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranit_Shreya
+- 👋 Hi, I’m @
 - 👀 I’m interested in FRONTEND,WEB DEV, FULL STACK
 - 🌱 I’m currently learning WEB DEV  
 - 💞️ I’m looking to collaborate on ...
